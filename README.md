@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Um entusiasta da tecnologia, apaixonado por tudo que envolve inovação e aprendizado. Desde jovem, tenho uma conexão especial com as tecnologias, o que me levou a explorar e me aprofundar na área de desenvolvimento.</p>
+<p align="left">Um entusiasta da tecnologia, apaixonado por tudo que envolve inovação e aprendizado. Desde jovem, tenho uma conexão especial com a tecnologia, o que me levou a explorar e me aprofundar na área de desenvolvimento.</p>
 
 ###
 
